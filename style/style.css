@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+html, body {
+	min-height: 100vh;
+}
+body {
+	display: flex;
+	flex-direction: column;
+}
+main {
+	flex: 1;
+}
+html{
+	background-color: #f1f1f1;
+}
+ol,ul,dl {
+	margin-left: 24px;
+}
