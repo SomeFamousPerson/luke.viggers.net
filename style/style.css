@@ -19,3 +19,7 @@ html{
 ol,ul,dl {
 	margin-left: 24px;
 }
+/* .align-center {
+	display: flex;
+	align-items: center;
+} */
